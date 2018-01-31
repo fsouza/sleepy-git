@@ -10,5 +10,3 @@ clone:
 pipeline:
   ...
 ```
-
-## Why?
